@@ -1,4 +1,4 @@
-# -Interactive-dashboard-for-business-stakeholders
+# Interactive dashboard for business stakeholders
 An interactive Power BI dashboard built using the Global Superstore dataset to analyze sales and profit performance across regions, products, and customer segments.
 
 # Dataset
